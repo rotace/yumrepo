@@ -1,7 +1,7 @@
 # rotace's original yum repository
 [rotacepkgs]
 name=rotace's original RPM packages
-baseurl=http://rotace.github.io/yumrepo/enterprise/el6/$basearch/
+baseurl=http://rotace.github.io/yumrepo/enterprise/el$releasever/$basearch/
 gpgcheck=0
 enabled=0
 

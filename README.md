@@ -1,0 +1,4 @@
+yumrepo
+=======
+
+private repository
